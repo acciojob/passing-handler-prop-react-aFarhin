@@ -57,10 +57,12 @@ button {
    display: flex;
    flex-direction: row;
    gap: 10px;
+   justify-content: center;
 }
 
 .selection1,.selection2, .selection3{
     width:  200px;
     height: 200px;
     border: 1px solid white;
+    margin: auto;
 } 
